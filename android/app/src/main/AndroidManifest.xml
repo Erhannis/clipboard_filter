@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.clipboard_filter">
+    package="com.erhannis.clipboard_filter">
    <application
         android:label="clipboard_filter"
         android:name="${applicationName}"
